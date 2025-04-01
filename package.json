@@ -1,0 +1,17 @@
+{
+  "name": "tests---cozaprezent.pl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "Przemysław Jaworski",
+  "license": "ISC",
+  "description": "End-to-end tests for the WooCommerce shop 'CoZaPrezent.pl using Cypress",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
